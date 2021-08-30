@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\34110\Desktop\Lab 5\lab05\main.c(12,37): warning C4101: b: неиспользованная локальная переменная
+C:\Users\34110\Desktop\Lab 5\lab05\main.c(12,34): warning C4101: g: неиспользованная локальная переменная
+C:\Users\34110\Desktop\Lab 5\lab05\main.c(12,31): warning C4101: r: неиспользованная локальная переменная
+C:\Users\34110\Desktop\Lab 5\lab05\main.c(35,15): warning C4002: слишком много аргументов для вызова макроса, подобного функции, "max"
+C:\Users\34110\Desktop\Lab 5\lab05\main.c(35,30): warning C4002: слишком много аргументов для вызова макроса, подобного функции, "min"
+  lab05.vcxproj -> C:\Users\34110\Desktop\Lab 5\lab05\Debug\lab05.exe
